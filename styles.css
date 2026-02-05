@@ -1,0 +1,47 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  background: #E6FFFE;
+}
+header{
+  background: #00FFDD;
+  display: FLEX;
+  padding: 5px 24px;
+  color: white;
+  align-items: center;
+}
+footer{
+  background: #b9fffc;
+  padding: 5px 24px;
+}
+.custom-button {
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #007bff; /* Основний синій колір */
+  border: none;
+  border-radius: 8px; /* Закруглені кути */
+  transition: all 0.3s ease; /* Плавна анімація */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px; 
+    padding: 30px; 
+}
+.GADGETS{
+    color: #76f563;
+    font-weight: bold;
+}
+.STAR_POWERS{
+    color: #f6ff67;
+    font-weight: bold;
+}
+.Mythic_Gear{
+    color: #e10a7d;
+    font-weight: bold;
+}
+/*Зроби цей сайт красивим 😉*/
